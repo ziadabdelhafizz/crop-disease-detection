@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files should not be pushed
+data/raw/
+data/processed/train/
+data/processed/val/
+data/processed/test/
+
+# Kaggle credentials
+kaggle.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Gradio temporary files
+.gradio/
+
+# Processed dataset folders / symlinks
+data/processed/train
+data/processed/train/
+data/processed/val
+data/processed/val/
+data/processed/test
+data/processed/test/

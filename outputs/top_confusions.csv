@@ -1,0 +1,16 @@
+true_class,predicted_class,count
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight,27
+Tomato___Spider_mites Two-spotted_spider_mite,Tomato___Target_Spot,22
+Tomato___Target_Spot,Tomato___healthy,16
+Grape___Black_rot,Grape___Esca_(Black_Measles),15
+Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,12
+Tomato___Septoria_leaf_spot,Tomato___Bacterial_spot,11
+Potato___Late_blight,Tomato___Late_blight,9
+Tomato___Septoria_leaf_spot,Tomato___Late_blight,9
+Tomato___Late_blight,Potato___Late_blight,8
+Tomato___Septoria_leaf_spot,Tomato___Target_Spot,8
+Tomato___Spider_mites Two-spotted_spider_mite,Tomato___healthy,8
+Peach___Bacterial_spot,Peach___healthy,7
+Potato___Early_blight,Potato___Late_blight,7
+Tomato___Early_blight,Tomato___Target_Spot,7
+Tomato___Bacterial_spot,Tomato___Septoria_leaf_spot,6
